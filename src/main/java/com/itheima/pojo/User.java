@@ -1,7 +1,7 @@
 package com.itheima.pojo;
 
 public class User {
-    private String asdfgdfs;  //用户名
-    private Integer afdadag;
-    private Integer afdggag;
+    private String gagdsgggdaggfs;  //用户名
+    private Integer afdgdagdsagdagadag;
+    private Integer afddfsfafafaggag;
 }
